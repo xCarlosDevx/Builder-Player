@@ -1,0 +1,10 @@
+C:\Users\Carlos Alejandro\source\repos\Builder-Player\Builder-Player\bin\Debug\Builder-Player.exe.config
+C:\Users\Carlos Alejandro\source\repos\Builder-Player\Builder-Player\bin\Debug\Builder-Player.exe
+C:\Users\Carlos Alejandro\source\repos\Builder-Player\Builder-Player\bin\Debug\Builder-Player.pdb
+C:\Users\Carlos Alejandro\source\repos\Builder-Player\Builder-Player\obj\Debug\Builder-Player.csproj.AssemblyReference.cache
+C:\Users\Carlos Alejandro\source\repos\Builder-Player\Builder-Player\obj\Debug\Builder_Player.CreatePlayer.resources
+C:\Users\Carlos Alejandro\source\repos\Builder-Player\Builder-Player\obj\Debug\Builder_Player.Properties.Resources.resources
+C:\Users\Carlos Alejandro\source\repos\Builder-Player\Builder-Player\obj\Debug\Builder-Player.csproj.GenerateResource.cache
+C:\Users\Carlos Alejandro\source\repos\Builder-Player\Builder-Player\obj\Debug\Builder-Player.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alejandro\source\repos\Builder-Player\Builder-Player\obj\Debug\Builder-Player.exe
+C:\Users\Carlos Alejandro\source\repos\Builder-Player\Builder-Player\obj\Debug\Builder-Player.pdb
